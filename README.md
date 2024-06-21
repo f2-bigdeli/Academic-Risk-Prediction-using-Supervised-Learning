@@ -1,0 +1,2 @@
+# Academic Risk Prediction using Supervised Learning
+ This project aims to predict the academic risk of students in higher education using various supervised learning models. The dataset includes features such as demographic information, previous academic performance, and other relevant factors. The goal is to classify students into categories such as "Dropout," "Enrolled," or "Graduate" using models like Logistic Regression, Random Forest, Gradient Boosting, K-Nearest Neighbors, and Support Vector Machine.
